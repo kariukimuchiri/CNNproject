@@ -1,11 +1,7 @@
 keras==2.6.0
 Keras-Preprocessing==1.1.2
-matplotlib @ file:///C:/ci/matplotlib-base_1592837548929/work
 numpy==1.19.5
-numpydoc @ file:///tmp/build/80754af9/numpydoc_1594166760263/work
 opencv-python==4.5.3.56
-pandas @ file:///C:/ci/pandas_1592833613419/work
-Pillow @ file:///C:/ci/pillow_1594298230227/work
 plotly==5.1.0
 streamlit==0.87.0
 tensorboard==2.6.0
