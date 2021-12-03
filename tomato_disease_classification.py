@@ -2,7 +2,6 @@
 import numpy as np
 import pandas as pd
 import streamlit as st
-import cv2
 from PIL import Image, ImageEnhance
 import tensorflow as tf
 from tensorflow.keras import models, layers
