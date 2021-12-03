@@ -6,7 +6,7 @@ from PIL import Image, ImageEnhance
 import tensorflow as tf
 from tensorflow.keras import models, layers
 
-MODEL = tf.keras.models.load_model("C:/Users/ANTONY/ADS Class Notes/tomato classification/training/model.h5")
+MODEL = tf.keras.models.load_model("model.h5")
 CLASS_NAMES = ['Tomato_Early_blight', 'Tomato_Late_blight', 'Tomato_healthy']
 
 
